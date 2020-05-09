@@ -6,6 +6,7 @@ RU  Требования - Установка - Запуск
 1 Если уже знаком с такой темой то иди к пункту --> 3.1 и 4.1
  1.1 - При установке ставте 2 галочки в самом начале.
   1.2 - След окошке просто нажмите "close".
+   1.3 - Ну и скачайте сам репозиторий https://github.com/DarkDeph/DarkDephSms/archive/master.zip
 
 2
  2.1 - Зайдите в поисковик виндовс, обычно он находится в левом нижнем углу. Пишем cmd.
@@ -30,7 +31,7 @@ For the script to work, you will need python3 (python3. 7. 2 - python3.8) you ca
 1 If you are already familiar with this topic then go to point --> 3.1 and 4.1
  1.1 -  when installing, put 2 ticks at the very beginning.
   1.2 - In the window, just click "close".
-
+   1.3 - Down repo https://github.com/DarkDeph/DarkDephSms/archive/master.zip
 2
  2.1 - Go to the search engine Windows, it is usually located in the lower-left corner. Writing cmd.
   2.2 - Write python (if you get ">>>" at the end, everything is fine), write exit()
@@ -62,7 +63,7 @@ sudo apt install git
   2.2 - ( pip install имямодуля ) имена модулей написанны выше в 2.1
 
 3 
- 3.1 - git clone https://github.com/DarkDeph/smsDarkDeph.git
+ 3.1 - git clone https://github.com/DarkDeph/DarkDephSms.git
   3.2 -
 cd smsDarkDeph 
 chmod +x * 
